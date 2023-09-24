@@ -1,7 +1,7 @@
-# News App 
+# News App 📰📱🧠
 
-An  Application Was Built Using Flutter Framework.
+An  Application Was Built Using Flutter Framework. 📦📑
 
-## The Final Result:
+## The Final Result 🧰💪😎 
 
 
